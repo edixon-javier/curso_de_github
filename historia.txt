@@ -6,6 +6,7 @@ tiene mas gracia.
 
 estamos listo para crear un rebase.
 
+master 2
 
 creando un nuevo repositorio 
 creo que es lo mas dificil
