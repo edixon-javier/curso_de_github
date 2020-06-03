@@ -13,3 +13,4 @@ Terminar con una vida que valga la pena volver a vivirla.
 
 creado por edixon javier pabon 
 pabon lizcao es su nombre jejej 
+disponible para todas las edades 
