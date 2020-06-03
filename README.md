@@ -11,4 +11,7 @@ Terminar con una vida que valga la pena volver a vivirla.
 
 ###¿Eres tu mejor versión? 🤩
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 15ae5fbedbecaff03f3c76a9bd2bd1f679fd0231
