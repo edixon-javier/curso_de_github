@@ -11,4 +11,10 @@ Terminar con una vida que valga la pena volver a vivirla.
 
 ###¿Eres tu mejor versión? 🤩
 
+<<<<<<< HEAD
 creado por edixon javier pabon 
+=======
+creado por edixon javier pabon 
+pabon lizcao es su nombre jejej 
+disponible para todas las edades 
+>>>>>>> readmi
