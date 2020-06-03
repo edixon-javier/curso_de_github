@@ -6,7 +6,11 @@ tiene mas gracia.
 
 estamos listo para crear un rebase.
 
+<<<<<<< HEAD
 master 2
+=======
+experimento 1 
+>>>>>>> 95534d5... expe 1
 
 creando un nuevo repositorio 
 creo que es lo mas dificil
